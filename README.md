@@ -80,6 +80,16 @@ We will help you with product implementation so that you can fully focus on mark
   </ul>
 </details>
 
+## Pricing
+
+|                  | Basic Package | NoFee Package | Special Offer |
+|------------------|---------------|---------------|---------------|
+| Fee              | 1%            | 0%            | 0%            |
+| Maintenance Cost | Free          | $5,000 / year | Free          |
+| Community        | 1000+         | 10000+        | 50000+        |
+| Custom design    | Only colors   | Yes           | Yes           |
+| Pricing          | $5000         | $20.000       | Contact Us    |
+
 ## Live Demo
 
 Want a personal demo of our Crypto Launchpad solution?
@@ -104,6 +114,35 @@ Write to us, and we will answer all your questions and tell you all about your p
 - Polkadot
 - Solana
 - And others, write to us if the network you need is not in this list
+
+## Frequently asked questions
+
+<details>
+  <summary>How much White-label Launchpad development cost?</summary>
+  <p>Depending on the complexity and required features the cost of ICO Launchpad may vary. It starts from the basic $50k version and goes up to $200k depending on the parts. However, with our white-label Launchpad, the cost is lower, starting from $10k. If you want to know more, drop us a message for the estimate.</p>
+</details>
+
+<details>
+  <summary>How long does it take to develop Launchpad?</summary>
+  <p>Since this is a White-Label solution, its development and launch takes 3-4 times less time than when developing it from scratch.</p>
+  <p>But if you need some additional functionality for marketing or community - the development of this functionality will be estimated separately</p>
+  <p>You will receive a ready-made solution in less than a month.</p>
+</details>
+
+<details>
+  <summary>What kinds of networks does your Launchpad work with?</summary>
+  <p>All Etherium-derived networks are currently supported, such as: Etherium, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche, Celo, Solana and many others</p>
+</details>
+
+<details>
+  <summary>What are the key features of OmiSoft’s White-label Launchpad?</summary>
+  <p>The key features of our IDO/ICO Launchpad include an easy-to-use UX and mobile-friendly interface, multichain support, token creation, a convenient admin panel for system management, and flexible rule setting.</p>
+</details>
+
+<details>
+  <summary>How much does product maintenance cost?</summary>
+  <p>For Basic Package maintenance is free, for NoFee Package maintenance costs $5,000 per year</p>
+</details>
 
 ## Summary
 
